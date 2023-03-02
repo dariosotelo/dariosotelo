@@ -1,7 +1,7 @@
 ### Hi there 😍
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-git-master-dariosotelo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/dariosotelo)
+[<img src="https://spotify-now-playing-git-master-dariosotelo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mellosotelo)
 
 <!--
 **dariosotelo/dariosotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
