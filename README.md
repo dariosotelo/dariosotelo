@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 😍
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-git-master-dariosotelo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Dario Sotelo)
 
 <!--
 **dariosotelo/dariosotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
