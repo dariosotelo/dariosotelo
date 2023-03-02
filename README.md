@@ -1,4 +1,7 @@
-### Hi there 😍
+### Hello there 😍
+### My GitHub Stats
+[![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=white&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-git-master-dariosotelo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mellosotelo)
