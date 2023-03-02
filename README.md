@@ -2,9 +2,8 @@
 ### My GitHub Stats
 [![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=white&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mellosotelo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-[<img src="https://spotify-now-playing-git-master-dariosotelo.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mellosotelo)
 
 <!--
 **dariosotelo/dariosotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
