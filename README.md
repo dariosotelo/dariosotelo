@@ -1,5 +1,10 @@
-### Hello there 😍
+### Hello there 😍<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 Trying to give my best to the world.
+
+
+![slap-it-50cent-2748144272](https://user-images.githubusercontent.com/61364235/222763481-7fca2a07-825b-4f2b-8e29-d67a21de1cca.GIF)
+
 Contact: dariosotapo@gmail.com
 
 ### Visitor count
@@ -8,8 +13,9 @@ Contact: dariosotapo@gmail.com
 ### My GitHub Stats
 [![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=white&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![rapping-50cent-3879198117](https://user-images.githubusercontent.com/61364235/222762838-71d398d6-980a-4570-baad-13edb35b3f16.GIF)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mellosotelo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 <!--
