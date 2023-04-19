@@ -11,7 +11,8 @@ Contact: dariosotapo@gmail.com
 <img src="https://profile-counter.glitch.me/dariosotelo/count.svg" />
 
 ### My GitHub Stats
-[![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=white&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![rapping-50cent-3879198117](https://user-images.githubusercontent.com/61364235/222762838-71d398d6-980a-4570-baad-13edb35b3f16.GIF)
 
