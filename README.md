@@ -11,8 +11,22 @@ Contact: dariosotapo@gmail.com
 <img src="https://profile-counter.glitch.me/dariosotelo/count.svg" />
 
 ### My GitHub Stats
-[![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=yeblu&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dariosotelo&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Dario Sotelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosotelo&layout=compact&theme=swift&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariosotelo&repo=the_Two-Phase_Method&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariosotelo&repo=N-Queens_Problem&theme=swift" />
+</a>
 
 ![rapping-50cent-3879198117](https://user-images.githubusercontent.com/61364235/222762838-71d398d6-980a-4570-baad-13edb35b3f16.GIF)
 
