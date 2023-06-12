@@ -10,13 +10,15 @@ Contact: dariosotapo@gmail.com
 ### Visitor count
 <img src="https://profile-counter.glitch.me/dariosotelo/count.svg" />
 
-### My GitHub Stats
 <!--
 [![DarioSotelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariosotelo&theme=yeblu&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
+### My GitHub Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dariosotelo&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Dario Sotelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariosotelo&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
 
 #### Top Repositories
 
