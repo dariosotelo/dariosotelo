@@ -24,7 +24,7 @@ Contact: dariosotapo@gmail.com
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariosotelo&repo=the_Two-Phase_Method&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariosotelo&repo=DeepPortfolioOptimization&theme=swift" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariosotelo&repo=N-Queens_Problem&theme=swift" />
