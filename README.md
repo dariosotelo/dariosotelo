@@ -31,8 +31,9 @@ Contact: dariosotapo@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariosotelo&repo=N-Queens_Problem&theme=swift" />
 </a>
 
+<!--
 ![rapping-50cent-3879198117](https://user-images.githubusercontent.com/61364235/222762838-71d398d6-980a-4570-baad-13edb35b3f16.GIF)
-
+-->
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mellosotelo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 -->
